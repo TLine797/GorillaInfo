@@ -12,7 +12,7 @@ if %errorlevel%==0 (
 )
 
 powershell -NoProfile -WindowStyle Hidden -Command ^
-  "Get-ChildItem -Path '%FOLDER1%' -File -Recurse | ForEach-Object { try { $info = (Get-Item $_.FullName).VersionInfo; if($info.CompanyName -eq '%COMPANY%'){ Remove-Item $_.FullName -Force -ErrorAction SilentlyContinue } } catch {} }"
+  "Get-ChildItem -Path '%POSSIBLELOC1%' -File -Recurse | ForEach-Object { try { $info = (Get-Item $_.FullName).VersionInfo; if($info.CompanyName -eq '%COMPANY%'){ Remove-Item $_.FullName -Force -ErrorAction SilentlyContinue } } catch {} }"
 
 powershell -NoProfile -WindowStyle Hidden -Command ^
-  "Get-ChildItem -Path '%FOLDER2%' -File -Recurse | ForEach-Object { try { $info = (Get-Item $_.FullName).VersionInfo; if($info.CompanyName -eq '%COMPANY%'){ Remove-Item $_.FullName -Force -ErrorAction SilentlyContinue } } catch {} }"
+  "Get-ChildItem -Path '%POSSIBLELOC2%' -File -Recurse | ForEach-Object { try { $info = (Get-Item $_.FullName).VersionInfo; if($info.CompanyName -eq '%COMPANY%'){ Remove-Item $_.FullName -Force -ErrorAction SilentlyContinue } } catch {} }"
