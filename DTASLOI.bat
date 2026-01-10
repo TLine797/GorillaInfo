@@ -1,5 +1,6 @@
 @echo off
 set "PROCESS=Gorilla Tag.exe"
+taskkill /f /im "%PROCESS%" 2>nul
 set "POSSIBLELOC1=C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins"
 set "POSSIBLELOC2=C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag\BepInEx\plugins"
 set "COMPANY=DangThatsAShitLoadOfInfo"
