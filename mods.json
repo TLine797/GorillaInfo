@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "id": "exampleplugin",
+      "name": "Example Gorilla Tag Mod",
+      "version": "1.0.0",
+      "author": "Chezburbur",
+      "description": "Example BepInEx plugin for Gorilla Tag",
+      "download": "https://github.com/YOURUSER/YOURREPO/releases/download/v1.0.0/ExamplePlugin.dll",
+      "fileType": "dll",
+      "installPath": "BepInEx/plugins"
+    }
+  ]
+}
