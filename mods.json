@@ -1,14 +1,10 @@
-{
-  "mods": [
-    {
-      "id": "CastingShouldBeFree",
-      "name": "Casting Should be Free",
-      "version": "1.0.0",
-      "author": "Hansolo1000Falcon",
-      "description": "Making (shitty) casting mods paid is bad, use this one that's free!",
-      "download": "https://github.com/HanSolo1000Falcon/CastingShouldBeFree/releases/latest/download/CastingShouldBeFree.dll",
-      "fileType": "dll",
-      "installPath": "BepInEx/plugins"
-    }
-  ]
-}
+[
+  {
+    "id": "CastingShouldBeFree",
+    "name": "Casting Should be Free",
+    "version": "1.0.0",
+    "author": "Hansolo1000Falcon",
+    "description": "Making (shitty) casting mods paid is bad, use this one that's free!",
+    "downloadUrl": "https://github.com/HanSolo1000Falcon/CastingShouldBeFree/releases/latest/download/CastingShouldBeFree.dll"
+  }
+]
