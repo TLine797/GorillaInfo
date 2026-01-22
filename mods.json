@@ -1,12 +1,12 @@
 {
   "mods": [
     {
-      "id": "exampleplugin",
-      "name": "Example Gorilla Tag Mod",
+      "id": "CastingShouldBeFree",
+      "name": "Casting Should be Free",
       "version": "1.0.0",
-      "author": "Chezburbur",
-      "description": "Example BepInEx plugin for Gorilla Tag",
-      "download": "https://github.com/YOURUSER/YOURREPO/releases/download/v1.0.0/ExamplePlugin.dll",
+      "author": "Hansolo1000Falcon",
+      "description": "Making (shitty) casting mods paid is bad, use this one that's free!",
+      "download": "https://github.com/HanSolo1000Falcon/CastingShouldBeFree/releases/latest/download/CastingShouldBeFree.dll",
       "fileType": "dll",
       "installPath": "BepInEx/plugins"
     }
