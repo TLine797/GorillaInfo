@@ -1,15 +1,5 @@
 [
   {
-    "id": "BepInEx",
-    "name": "BepInEx 5.4.21",
-    "version": "5.4.21",
-    "author": "BepInEx Team",
-    "description": "BepInEx is a modding framework required to run plugins in Gorilla Tag.",
-    "downloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip",
-    "fileType": "zip",
-    "installPath": "root"
-  },
-  {
     "id": "CastingShouldBeFree",
     "name": "Casting Should be Free",
     "version": "1.1.1",
