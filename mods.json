@@ -11,6 +11,17 @@
     "group": "Tweaks / Tools"
   },
   {
+    "id": "eiop",
+    "name": "Everything In One Place",
+    "version": "Latest",
+    "author": "Hansolo1000Falcon",
+    "description": "Pepsi dees private mod checker",
+    "downloadUrl": "https://github.com/HanSolo1000Falcon/EIOP/releases/latest/download/EIOP.dll",
+    "fileType": "dll",
+    "installPath": "BepInEx/plugins",
+    "group": "Tweaks / Tools"
+  },
+  {
     "id": "bettermirror",
     "name": "BetterMirror",
     "version": "3.2",
