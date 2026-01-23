@@ -22,6 +22,17 @@
     "group": "Tweaks / Tools"
   },
   {
+    "id": "zlothynametag",
+    "name": "Zlothy-Nametag",
+    "version": "Latest",
+    "author": "ZlothY29IQ",
+    "description": "This was not made by me, it was made for me. This is just my fork of it with some addons. (wouldnt let me push to a fork for some reason) ",
+    "downloadUrl": "https://github.com/ZlothY29IQ/Zlothy-Nametag/releases/latest/download/ZlothYNametag.dll",
+    "fileType": "dll",
+    "installPath": "BepInEx/plugins",
+    "group": "Tweaks / Tools"
+  },
+  {
     "id": "bettermirror",
     "name": "BetterMirror",
     "version": "3.2",
