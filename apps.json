@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "WinRAR",
+    "Description": "File archiver utility - Activation key",
+    "Icon": "📦",
+    "SourcePath": "embedded:rarreg.key",
+    "DestinationPath": "C:\\Program Files\\WinRAR",
+    "Installed": false
+  },
+  {
+    "Id": 2,
+    "Name": "HTTP Debugger Pro",
+    "Description": "HTTP debugging proxy",
+    "Icon": "🔍",
+    "SourcePath": "C:\\Installers\\http-debugger-crack.exe",
+    "DestinationPath": "C:\\Program Files\\HTTP Debugger",
+    "Installed": false
+  },
+  {
+    "Id": 3,
+    "Name": "Adobe Photoshop",
+    "Description": "Image editing software",
+    "Icon": "🎨",
+    "SourcePath": "C:\\Installers\\photoshop-crack.exe",
+    "DestinationPath": "C:\\Program Files\\Adobe\\Photoshop",
+    "Installed": false
+  },
+  {
+    "Id": 4,
+    "Name": "IDM",
+    "Description": "Internet Download Manager",
+    "Icon": "⬇️",
+    "SourcePath": "C:\\Installers\\idm-crack.exe",
+    "DestinationPath": "C:\\Program Files\\Internet Download Manager",
+    "Installed": false
+  }
+]
