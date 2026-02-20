@@ -1,0 +1,19 @@
+# Moonlight.cc V1.0.0
+
+[ADDED]
+[+] New injection system
+[+] Multi-process support
+[+] Auto-update feature
+[+] Theme customization
+
+[FIXED]
+[*] Memory leak in loader
+[*] Crash on startup
+[*] UI rendering issues
+[*] Performance improvements
+
+[REMOVED]
+[-] Legacy injection method
+[-] Deprecated API calls
+[-] Old theme system
+[-] Unused dependencies
