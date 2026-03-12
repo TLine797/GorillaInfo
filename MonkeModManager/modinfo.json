@@ -1,0 +1,341 @@
+[
+  {
+    "name": "BetterMirror",
+    "author": "Graze",
+    "version": "3.4",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/BetterMirror",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/BetterMirror/releases/latest/download/BetterMirror.dll"
+  },
+  {
+    "name": "Blink2",
+    "author": "Graze",
+    "version": "1.0.3",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/Blink2",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/Blink2/releases/latest/download/Blink2.dll"
+  },
+  {
+    "name": "GorillaCosmeticTweaks",
+    "author": "Dev",
+    "version": "1.0.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/GorillaCosmeticTweaks",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaCosmeticTweaks/releases/latest/download/GorillaCosmeticTweaks.dll"
+  },
+  {
+    "name": "Monke Cosmetics",
+    "author": "Ngbatz",
+    "version": "1.0.4",
+    "dependencies": ["BepInEx"],
+    "git_path": "NgbatzYT/MonkeCosmetics",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
+  },
+  {
+    "name": "GorillaPronouns",
+    "author": "Dev",
+    "version": "1.0.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.dll"
+  },
+  {
+    "name": "GorillaPronouns-InfoWatch",
+    "author": "Dev",
+    "version": "1.0.1",
+    "dependencies": ["GorillaPronouns", "BepInEx"],
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.InfoWatch.dll"
+  },
+  {
+    "name": "GorillaShirts",
+    "author": "Dev",
+    "version": "2.4.2",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/GorillaShirts",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
+  },
+  {
+    "name": "ProfilePictures",
+    "author": "Graze",
+    "version": "4.4.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/ProfilePictures",
+    "install_location": "",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/ProfilePictures/releases/latest/download/ProfilePictures.zip"
+  },
+  {
+    "name": "GorillaStartUpSounds",
+    "author": "JUNEISEPIC",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "UNEISEPIC/GorillaStartUpSounds",
+    "install_location": "BepInEx/plugins/GorillaStartUpSounds",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/JUNEISEPIC/GorillaStartUpSounds/releases/latest/download/GorillaStartUpSounds.zip"
+  },
+  {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.23.3",
+    "dependencies": ["Consoleless", "Utilla"],
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip"
+  },
+  {
+    "name": "Utilla",
+    "author": "Various(check page)",
+    "version": "1.6.27",
+    "dependencies": ["BepInEx"],
+    "git_path": "eveloper9998/Utilla",
+    "group": "Core",
+    "download_url": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
+  },
+  {
+    "name": "Consoleless",
+    "author": "BrokenStone",
+    "version": "1.0.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "BrokenSt0ne/Consoleless",
+    "group": "Core",
+    "download_url": "https://github.com/BrokenSt0ne/Consoleless/releases/latest/download/Consoleless.dll"
+  },
+  {
+    "name": "ConfigurationManager",
+    "author": "BepInEx",
+    "version": "18.4.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "BepInEx/BepInEx.ConfigurationManager",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/latest/download/BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip"
+  },
+  {
+    "name": "GorillaFriends",
+    "author": "RusJJ/Not A Bird/DEV",
+    "version": "1.2.5",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/GorillaFriends",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/GorillaFriends/releases/latest/download/GorillaFriends.dll"
+  },
+  {
+    "name": "Grate",
+    "author": "Graze",
+    "version": "1.8.8",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/Grate",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
+  },
+  {
+    "name": "Mono-Sandbox-Mod",
+    "author": "Mono/Dev",
+    "version": "1.2.3",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/Mono-Sandbox-Mod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/Mono-Sandbox-Mod/releases/latest/download/MonoSandbox.dll"
+  },
+  {
+    "name": "WhoIsTalking",
+    "author": "Graze",
+    "version": "5.2.2",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/WhoIsTalking",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/latest/download/WhoIsTalking.dll"
+  },
+  {
+    "name": "GorillaTrials",
+    "author": "Lapis/Will/dev9998",
+    "version": "1.5.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "LapisGit/GorillaTrials",
+    "group": "Gameplay",
+    "download_url": "https://github.com/LapisGit/GorillaTrials/releases/latest/download/GorillaTrials.dll"
+  },
+  {
+    "name": "BingusNametags++",
+    "author": "Bingus",
+    "version": "1.3.3",
+    "dependencies": ["BepInEx"],
+    "git_path": "sirkingbinx/BingusNametagsPlusPlus",
+    "group": "Gameplay",
+    "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
+  },
+    {
+    "name": "NoForestBarrier",
+    "author": "SilvazWasTaken",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "SilvazWasTaken/NoForestBarrier",
+    "group": "Gameplay",
+    "download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
+  },
+  {
+    "name": "Bepinject",
+    "author": "Auros",
+    "version": "1.0.1",
+    "dependencies": ["Extenject", "BepInEx"],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Bepinject-Auros.zip"
+  },
+  {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "dependencies": ["Bepinject", "BepInEx"],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Extenject.zip"
+  },
+  {
+    "name": "HoneyLib",
+    "author": "BzzzThe18th",
+    "version": "1.4.4",
+    "dependencies": ["BepInEx"],
+    "git_path": "BzzzThe18th/HoneyLib",
+    "group": "Libraries",
+    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
+  },
+  {
+    "name": "NgbatzSubBoard",
+    "author": "Ngbatz",
+    "version": "1.2.2",
+    "dependencies": ["BepInEx"],
+    "git_path": "NgbatzYT/NgbatzSubBoard",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/NgbatzYT/NgbatzSubBoard/releases/latest/download/NgbatzSubBoard.dll"
+  },
+  {
+    "name": "OculusReportMenu",
+    "author": "Bingus",
+    "version": "2.3.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "sirkingbinx/OculusReportMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.dll"
+  },
+  {
+    "name": "CosmeticsLoadingBar",
+    "author": "Graze",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/CosmeticsLoadingBar",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/CosmeticsLoadingBar/releases/latest/download/CosmeticsLoadingBar.dll"
+  },
+  {
+    "name": "CosmeticNames",
+    "author": "Graze",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/CosmeticNames",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/CosmeticNames/releases/latest/download/CosmeticNames.dll"
+  },
+  {
+    "name": "GorillaInfoWatch",
+    "author": "developer9998",
+    "version": "1.1.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/GorillaInfoWatch",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaInfoWatch/releases/latest/download/GorillaInfoWatch.dll"
+  },
+  {
+    "name": "GorillaHistoricalTeleporter",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/GorillaHistoricalTeleporter",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaHistoricalTeleporter/releases/latest/download/GorillaHistoricalTeleporter.dll"
+  },
+  {
+    "name": "MonkePhone",
+    "author": "developer9998",
+    "version": "1.0.5",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/MonkePhone",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/MonkePhone/releases/latest/download/MonkePhone.dll"
+  },
+  {
+    "name": "BringBackBugBabies",
+    "author": "Not A Bird",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "notabird/BringBackBugBabies",
+    "group": "Cosmetic",
+    "download_url": "https://codeberg.org/notabird/BringBackBugBabies/releases/download/1.0.0/BringBackBugBabies.dll"
+  },
+  {
+    "name": "GorillaHandsFree",
+    "author": "developer9998",
+    "version": "1.0.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/GorillaHandsFree",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaHandsFree/releases/latest/download/GorillaHandsFree.dll"
+  },
+  {
+    "name": "GorillaCustomTime",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": ["GorillaInfoWatch", "BepInEx"],
+    "git_path": "developer9998/GorillaCustomTime",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaCustomTime/releases/latest/download/GorillaCustomTime.dll"
+  },
+  {
+    "name": "GorillaFaces",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": ["GorillaInfoWatch", "BepInEx"],
+    "install_location": "BepInEx/plugins/GorillaFaces",
+    "git_path": "developer9998/GorillaFaces",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaFaces/releases/latest/download/GorillaFaces.zip"
+  },
+  {
+    "name": "GorillaRichPresence",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": ["GorillaInfoWatch", "BepInEx"],
+    "git_path": "developer9998/GorillaRichPresence",
+    "install_location": "",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaRichPresence/releases/latest/download/GorillaRichPresence.zip"
+  },
+  {
+    "name": "Several Bees",
+    "author": "Sev",
+    "version": "1.4.2",
+    "dependencies": ["BepInEx"],
+    "git_path": "sevvy-wevvy/Several-Bees",
+    "group": "Libraries",
+    "download_url": "https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll"
+  },
+  {
+    "name": "Gorilla Optimizer",
+    "author": "Sev",
+    "version": "1.1.0",
+    "dependencies": ["Several Bees", "BepInEx"],
+    "git_path": "sevvy-wevvy/Gorilla-Optimizer",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest/download/GorillaOptimizer.dll"
+  }
+]
