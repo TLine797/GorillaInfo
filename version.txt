@@ -1,0 +1,2 @@
+1.0.8;[<color=red>Outdated</color>] Your current build of DTASLOI is outdated and should NOT be used.
+A discord invite has been opened, download it from #updates in the discord server.
