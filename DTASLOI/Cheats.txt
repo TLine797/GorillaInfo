@@ -32,7 +32,7 @@
     "Track Track Track Sahur": "Track Track Track Sahur Tracker",
     "R3_MENU": "R3 Menu",
     "ZlothYDances": "ZlothY Dances",
-    "1y u lookin in here weirdo": "Malachi Menu",
+    "1y u lookin in here weirdo": "Malachi Menu Reborn",
     "tsbib": "Tsbib",
     "FPS-Nametags for Zlothy": "ZlothY Nametag"
   }
