@@ -27,12 +27,12 @@
     "Explicit": "Explicit Menu",
     "envision build transform flourish": "Envision",
     "https://chqser.lol/": "Chqser",
-    "y u lookin in here wei": "Malachi Menu",
+    "y u lookin in here wei": "Malachi Menu Reborn",
     "explicit": "Explicit",
     "Track Track Track Sahur": "Track Track Track Sahur Tracker",
     "R3_MENU": "R3 Menu",
     "ZlothYDances": "ZlothY Dances",
     "1y u lookin in here weirdo": "Malachi Menu",
-    "tsbib": "tsbib is most ratted checker in existence",
+    "tsbib": "Tsbib",
     "FPS-Nametags for Zlothy": "ZlothY Nametag"
   }
