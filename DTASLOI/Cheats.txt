@@ -35,5 +35,6 @@
     "1y u lookin in here weirdo": "Malachi Menu Reborn",
     "tsbib": "Tsbib",
     "WalkSimulator": "Walk Simulator",
-    "AceUtilsPad": "AUP"
+    "AceUtilsPad": "AUP",
+    "Chud menu": "Chud Menu"
   }
