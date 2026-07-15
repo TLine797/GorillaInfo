@@ -34,6 +34,6 @@
     "ZlothYDances": "ZlothY Dances",
     "1y u lookin in here weirdo": "Malachi Menu Reborn",
     "tsbib": "Tsbib",
-    "FPS-Nametags for Zlothy": "ZlothY Nametag",
+    "WalkSimulator": "Walk Simulator",
     "AceUtilsPad": "AUP"
   }
