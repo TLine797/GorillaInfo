@@ -33,7 +33,7 @@
     "R3_MENU": "R3 Menu",
     "ZlothYDances": "ZlothY Dances",
     "1y u lookin in here weirdo": "Malachi Menu Reborn",
-    "tsbib": "Tsbib",
+    "tsbibiscool": "Tsbib is a RAT",
     "WalkSimulator": "Walk Simulator",
     "AceUtilsPad": "AUP",
     "Chud menu": "Chud Menu"
