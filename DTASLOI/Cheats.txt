@@ -36,5 +36,6 @@
     "tsbibiscool": "Tsbib is a RAT",
     "WalkSimulator": "Walk Simulator",
     "AceUtilsPad": "AUP",
-    "Chud menu": "Chud Menu"
+    "Chud menu": "Chud Menu",
+    "Lexi's WalkSimulator": "Walk Sim"
   }
