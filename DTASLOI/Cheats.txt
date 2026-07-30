@@ -29,7 +29,7 @@
     "https://chqser.lol/": "Chqser",
     "y u lookin in here wei": "Malachi Menu Reborn",
     "explicit": "Explicit",
-    "Track Track Track Sahur": "Track Track Track Sahur Tracker",
+    "Track Track Track Sahur": "Track Sahur",
     "R3_MENU": "R3 Menu",
     "ZlothYDances": "ZlothY Dances",
     "1y u lookin in here weirdo": "Malachi Menu Reborn",
